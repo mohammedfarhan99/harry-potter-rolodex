@@ -1,0 +1,39 @@
+@font-face{
+    font-family: harrypotter;
+    src: url(HarryP-MVZ6w.ttf);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.card-container .ancestry{
+    visibility: hidden;
+}
+.card-container{
+ 
+    display: flex;
+    flex-direction: column;
+    background-color:#100c08;
+    border: 1px solid #ffd700;
+    color: #ffd700;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: graysacle;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+
+.card-container:hover{
+    transform: scale(1.05);
+    font-family: harrypotter;
+    
+}
+.card-container:hover .ancestry{
+    visibility: visible;
+}
+

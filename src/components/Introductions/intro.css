@@ -1,0 +1,10 @@
+@font-face{
+    font-family: harrypotter;
+    src: url('HarryP-MVZ6w.ttf');
+}
+
+.intro{
+    font-family: harrypotter;
+    font-size: 100px;
+    color: #ffd700;
+}
