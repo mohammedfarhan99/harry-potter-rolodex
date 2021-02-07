@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/harry-potter-rolodex/static/css/main.8bc0a5d7.chunk.css",
-    "main.js": "/harry-potter-rolodex/static/js/main.9525bf70.chunk.js",
-    "main.js.map": "/harry-potter-rolodex/static/js/main.9525bf70.chunk.js.map",
+    "main.js": "/harry-potter-rolodex/static/js/main.fe12452f.chunk.js",
+    "main.js.map": "/harry-potter-rolodex/static/js/main.fe12452f.chunk.js.map",
     "runtime-main.js": "/harry-potter-rolodex/static/js/runtime-main.c0c4f9a4.js",
     "runtime-main.js.map": "/harry-potter-rolodex/static/js/runtime-main.c0c4f9a4.js.map",
     "static/js/2.55b1d70b.chunk.js": "/harry-potter-rolodex/static/js/2.55b1d70b.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c0c4f9a4.js",
     "static/js/2.55b1d70b.chunk.js",
     "static/css/main.8bc0a5d7.chunk.css",
-    "static/js/main.9525bf70.chunk.js"
+    "static/js/main.fe12452f.chunk.js"
   ]
 }
